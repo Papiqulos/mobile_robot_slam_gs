@@ -3,3 +3,12 @@
 
 
 /papers
+# colcon
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+__pycache__/
+
+# VS Code
+.vscode/browse.vc.db*
+.vscode/ipch/
