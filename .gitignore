@@ -10,5 +10,15 @@ ros2_ws/log/
 __pycache__/
 
 # VS Code
+.vscode/*
 .vscode/browse.vc.db*
 .vscode/ipch/
+
+# Claude
+CLAUDE.md
+
+# Misc
+BOM.txt
+ros2_ws/src/mobile_robot/README.md
+
+
